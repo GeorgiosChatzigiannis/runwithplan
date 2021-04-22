@@ -3,7 +3,7 @@
     <title>runwithplan</title>
     <link href="https://georgioschatzigiannis.github.io/runwithplan/feed.xml" rel="self" />
     <link href="https://georgioschatzigiannis.github.io/runwithplan" />
-    <updated>2021-04-22T09:22:57+03:00</updated>
+    <updated>2021-04-22T11:21:02+03:00</updated>
     <author>
         <name>Chatzigiannis Georgios</name>
     </author>
@@ -16,17 +16,22 @@
         </author>
         <link href="https://georgioschatzigiannis.github.io/runwithplan/5kform/"/>
         <id>https://georgioschatzigiannis.github.io/runwithplan/5kform/</id>
+            <category term="τεστ"/>
 
-        <updated>2021-04-22T09:22:57+03:00</updated>
+        <updated>2021-04-22T11:21:02+03:00</updated>
             <summary>
                 <![CDATA[
-                     
+                        <img src="https://georgioschatzigiannis.github.io/runwithplan/media/posts/60/Georgios-run-bg-4.jpg" alt="" />
+                    Click me to show the form! Click me to show the form! 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div data-paperform-id="fnxxep5j"> </div>
-<script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
+                    <img src="https://georgioschatzigiannis.github.io/runwithplan/media/posts/60/Georgios-run-bg-4.jpg" alt="" />
+                <p class="align-center"><button data-paperform-id="fnxxep5j" data-popup-button="1">Click me to show the form!</button></p>
+<p class="align-center"><button data-paperform-id="testformrunwithplan" data-popup-button="1">Click me to show the form!</button>
+<script>(function() { var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js";document.body.appendChild(script); })()</script>
+</p>
             ]]>
         </content>
     </entry>

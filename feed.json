@@ -14,15 +14,17 @@
             "id": "https://georgioschatzigiannis.github.io/runwithplan/5kform/",
             "url": "https://georgioschatzigiannis.github.io/runwithplan/5kform/",
             "title": "5κform",
-            "summary": " ",
-            "content_html": "<div data-paperform-id=\"fnxxep5j\"> </div>\n<script>(function() {var script = document.createElement('script'); script.src = \"https://paperform.co/__embed.min.js\"; document.body.appendChild(script); })()</script>",
+            "summary": "Click me to show the form! Click me to show the form! ",
+            "content_html": "<p class=\"align-center\"><button data-paperform-id=\"fnxxep5j\" data-popup-button=\"1\">Click me to show the form!</button></p>\n<p class=\"align-center\"><button data-paperform-id=\"testformrunwithplan\" data-popup-button=\"1\">Click me to show the form!</button>\n<script>(function() { var script = document.createElement('script'); script.src = \"https://paperform.co/__embed.min.js\";document.body.appendChild(script); })()</script>\n</p>",
+            "image": "https://georgioschatzigiannis.github.io/runwithplan/media/posts/60/Georgios-run-bg-4.jpg",
             "author": {
                 "name": "Chatzigiannis Georgios"
             },
             "tags": [
+                   "τεστ"
             ],
             "date_published": "2021-04-22T09:19:40+03:00",
-            "date_modified": "2021-04-22T09:22:57+03:00"
+            "date_modified": "2021-04-22T11:21:02+03:00"
         },
         {
             "id": "https://georgioschatzigiannis.github.io/runwithplan/dokimastiki-anartisi/",
