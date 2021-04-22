@@ -15,14 +15,14 @@
             "url": "https://georgioschatzigiannis.github.io/runwithplan/5kform/",
             "title": "5κform",
             "summary": " ",
-            "content_html": "<div data-paperform-id=\"fnxxep5j\" data-takeover=\"1\"> </div>\n<p>\n<script>(function() { var script = document.createElement('script'); script.src = \"https://paperform.co/__embed.min.js\";document.body.appendChild(script); })()</script>\n</p>",
+            "content_html": "<div data-paperform-id=\"fnxxep5j\"> </div>\n<script>(function() {var script = document.createElement('script'); script.src = \"https://paperform.co/__embed.min.js\"; document.body.appendChild(script); })()</script>",
             "author": {
                 "name": "Chatzigiannis Georgios"
             },
             "tags": [
             ],
             "date_published": "2021-04-22T09:19:40+03:00",
-            "date_modified": "2021-04-22T09:20:33+03:00"
+            "date_modified": "2021-04-22T09:22:57+03:00"
         },
         {
             "id": "https://georgioschatzigiannis.github.io/runwithplan/dokimastiki-anartisi/",

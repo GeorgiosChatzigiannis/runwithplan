@@ -3,7 +3,7 @@
     <title>runwithplan</title>
     <link href="https://georgioschatzigiannis.github.io/runwithplan/feed.xml" rel="self" />
     <link href="https://georgioschatzigiannis.github.io/runwithplan" />
-    <updated>2021-04-22T09:20:33+03:00</updated>
+    <updated>2021-04-22T09:22:57+03:00</updated>
     <author>
         <name>Chatzigiannis Georgios</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://georgioschatzigiannis.github.io/runwithplan/5kform/"/>
         <id>https://georgioschatzigiannis.github.io/runwithplan/5kform/</id>
 
-        <updated>2021-04-22T09:20:33+03:00</updated>
+        <updated>2021-04-22T09:22:57+03:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -25,10 +25,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div data-paperform-id="fnxxep5j" data-takeover="1"> </div>
-<p>
-<script>(function() { var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js";document.body.appendChild(script); })()</script>
-</p>
+                <div data-paperform-id="fnxxep5j"> </div>
+<script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
             ]]>
         </content>
     </entry>
