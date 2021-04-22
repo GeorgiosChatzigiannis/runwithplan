@@ -3,7 +3,7 @@
     <title>runwithplan</title>
     <link href="https://georgioschatzigiannis.github.io/runwithplan/feed.xml" rel="self" />
     <link href="https://georgioschatzigiannis.github.io/runwithplan" />
-    <updated>2021-04-22T11:21:02+03:00</updated>
+    <updated>2021-04-22T13:58:37+03:00</updated>
     <author>
         <name>Chatzigiannis Georgios</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://georgioschatzigiannis.github.io/runwithplan/5kform/</id>
             <category term="τεστ"/>
 
-        <updated>2021-04-22T11:21:02+03:00</updated>
+        <updated>2021-04-22T13:58:37+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://georgioschatzigiannis.github.io/runwithplan/media/posts/60/Georgios-run-bg-4.jpg" alt="" />
@@ -31,6 +31,13 @@
                 <p class="align-center"><button data-paperform-id="fnxxep5j" data-popup-button="1">Click me to show the form!</button></p>
 <p class="align-center"><button data-paperform-id="testformrunwithplan" data-popup-button="1">Click me to show the form!</button>
 <script>(function() { var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js";document.body.appendChild(script); })()</script>
+</p>
+<div class="omni-calculator" data-calculator="sports/marathon-pace" data-width="300" data-config="{}" data-currency="EUR" data-show-row-controls="false" data-version="3" data-t="1619088974914">
+<div class="omni-calculator-header">Marathon Pace Calculator</div>
+<div class="omni-calculator-footer"><a target="_blank" rel="noopener"><figure class="omni-calculator-logo"><img loading="lazy"  alt="Omni"></figure></a></div>
+</div>
+<p>
+<script async="" src="https://cdn.omnicalculator.com/sdk.js" data-is-external-image="true" ></script>
 </p>
             ]]>
         </content>

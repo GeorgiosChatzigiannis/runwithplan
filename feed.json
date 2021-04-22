@@ -15,7 +15,7 @@
             "url": "https://georgioschatzigiannis.github.io/runwithplan/5kform/",
             "title": "5κform",
             "summary": "Click me to show the form! Click me to show the form! ",
-            "content_html": "<p class=\"align-center\"><button data-paperform-id=\"fnxxep5j\" data-popup-button=\"1\">Click me to show the form!</button></p>\n<p class=\"align-center\"><button data-paperform-id=\"testformrunwithplan\" data-popup-button=\"1\">Click me to show the form!</button>\n<script>(function() { var script = document.createElement('script'); script.src = \"https://paperform.co/__embed.min.js\";document.body.appendChild(script); })()</script>\n</p>",
+            "content_html": "<p class=\"align-center\"><button data-paperform-id=\"fnxxep5j\" data-popup-button=\"1\">Click me to show the form!</button></p>\n<p class=\"align-center\"><button data-paperform-id=\"testformrunwithplan\" data-popup-button=\"1\">Click me to show the form!</button>\n<script>(function() { var script = document.createElement('script'); script.src = \"https://paperform.co/__embed.min.js\";document.body.appendChild(script); })()</script>\n</p>\n<div class=\"omni-calculator\" data-calculator=\"sports/marathon-pace\" data-width=\"300\" data-config=\"{}\" data-currency=\"EUR\" data-show-row-controls=\"false\" data-version=\"3\" data-t=\"1619088974914\">\n<div class=\"omni-calculator-header\">Marathon Pace Calculator</div>\n<div class=\"omni-calculator-footer\"><a target=\"_blank\" rel=\"noopener\"><figure class=\"omni-calculator-logo\"><img loading=\"lazy\"  alt=\"Omni\"></figure></a></div>\n</div>\n<p>\n<script async=\"\" src=\"https://cdn.omnicalculator.com/sdk.js\" data-is-external-image=\"true\" ></script>\n</p>",
             "image": "https://georgioschatzigiannis.github.io/runwithplan/media/posts/60/Georgios-run-bg-4.jpg",
             "author": {
                 "name": "Chatzigiannis Georgios"
@@ -24,7 +24,7 @@
                    "τεστ"
             ],
             "date_published": "2021-04-22T09:19:40+03:00",
-            "date_modified": "2021-04-22T11:21:02+03:00"
+            "date_modified": "2021-04-22T13:58:37+03:00"
         },
         {
             "id": "https://georgioschatzigiannis.github.io/runwithplan/dokimastiki-anartisi/",
